@@ -7,8 +7,5 @@ public class TextMain {
     System.out.println("2222");
     System.out.println("444");
     System.out.println("6666");
-
-    System.out.println("444");
-    System.out.println("5555");
 	}
 }
